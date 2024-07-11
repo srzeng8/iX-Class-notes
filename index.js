@@ -177,3 +177,8 @@ const Person = class {
         
     }
 }
+
+//Fibonacci Seq. function
+function fib() {
+    
+}
